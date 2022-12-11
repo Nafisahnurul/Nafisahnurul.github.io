@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Nafisahnurul/aibtucilkita#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "json-rules-engine": "^4.1.0",
     "nools": "^0.4.4"
   }
